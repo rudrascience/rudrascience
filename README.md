@@ -10,6 +10,7 @@ Connect with me:
 
 
 📫 How to reach me
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrajitdas.work@gmail.com)
 
 🚀 Passionate about Open Source data and Creating useful insights out of it
