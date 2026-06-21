@@ -5,12 +5,13 @@
 Connect with me: 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/rudrajit-das-32533b204/)
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@rudrajit55555)
+
+
 📫 How to reach me
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:rudrajitdas.work@gmail.com)
 
 🚀 Passionate about Open Source data and Creating useful insights out of it
-
-🌱 Currently learning new technologies for Data Science 
 
 ## About Me
 
