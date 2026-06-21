@@ -1,10 +1,12 @@
 # Hi 👋, I'm Rudrajit Das
 
 📊 Data Analyst | Python | SQL | Power BI | Ex-Banker
+
 Connect with me: 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white):https://www.linkedin.com/in/rudrajit-das-32533b204/
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/rudrajit-das-32533b204/)
+
 📫 How to reach me
-![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white):rudrajitdas.work@gmail.com
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:rudrajitdas.work@gmail.com)
 
 🚀 Passionate about Open Source data and Creating useful insights out of it
 
