@@ -2,16 +2,6 @@
 
 📊 Data Analyst | Python | SQL | Power BI | Ex-Banker
 
-Connect with me: 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudrajit-das-32533b204)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@rudrajit55555)
-
-
-📫 How to reach me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrajitdas.work@gmail.com)
-
 🚀 Passionate about Open Source data and Creating useful insights out of it
 
 ## About Me
@@ -26,6 +16,17 @@ I transform raw data into actionable insights through data cleaning, analysis, v
 - ⚡ Fun fact: I love solving real-world problems with code
 🎯 Goal:
 To solve real-world business problems using data-driven decision making.
+Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudrajit-das-32533b204)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@rudrajit55555)
+
+
+📫 How to reach me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrajitdas.work@gmail.com)
+
+
 ## 🛠️ Analytics Toolkit
 
 ### Languages
@@ -55,7 +56,7 @@ To solve real-world business problems using data-driven decision making.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
-![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
