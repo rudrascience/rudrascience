@@ -14,6 +14,7 @@ I transform raw data into actionable insights through data cleaning, analysis, v
 - Data Science Concepts
 - 💬 Ask me about Python, SQL, Power BI, Excel
 - ⚡ Fun fact: I love solving real-world problems with code
+
 🎯 Goal:
 To solve real-world business problems using data-driven decision making.
 Connect with me:
