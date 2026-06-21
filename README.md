@@ -17,7 +17,8 @@ I transform raw data into actionable insights through data cleaning, analysis, v
 
 🎯 Goal:
 To solve real-world business problems using data-driven decision making.
-Connect with me:
+
+⭐ Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rudrajit-das-32533b204)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@rudrajit55555)
