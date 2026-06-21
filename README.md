@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Rudrajit Das
 
-<!--
-**rudrascience/rudrascience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Python | SQL | Power BI | Ex-Banker
+My LinkedIN profile: https://www.linkedin.com/in/rudrajit-das-32533b204/
+My Hackerrank profile: https://www.hackerrank.com/profile/rudrajit55555
+Email_ID: rudrajitdas.work@gmail.com
+🚀 Passionate about Open Source data and Creating useful insights out of it
+🌱 Currently learning new technologies for Data Science 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I transform raw data into actionable insights through data cleaning, analysis, visualization, and dashboard development.
+
+🌱 Currently learning:
+- Advanced SQL
+- Machine Learning
+- Data Science Concepts
+- 💬 Ask me about Python, SQL, Power BI, Excel
+- ⚡ Fun fact: I love solving real-world problems with code
+🎯 Goal:
+To solve real-world business problems using data-driven decision making.
+## 🛠️ Analytics Toolkit
+
+### Languages
+- Python
+- SQL
+
+### Data Analysis
+- Pandas
+- NumPy
+
+### Visualization
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
+
+### Databases
+- MySQL
+- PostgreSQL
+
+### Tools
+- Excel
+- Jupyter Notebook
+- Git
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+## 📈 GitHub Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rudrascience&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrascience&layout=compact&theme=tokyonight)
