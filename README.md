@@ -1,9 +1,14 @@
 # Hi 👋, I'm Rudrajit Das
 
 📊 Data Analyst | Python | SQL | Power BI | Ex-Banker
-My LinkedIN profile: https://www.linkedin.com/in/rudrajit-das-32533b204/
-My Hackerrank profile: https://www.hackerrank.com/profile/rudrajit55555
-Email_ID: rudrajitdas.work@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] : https://www.linkedin.com/in/rudrajit-das-32533b204/
+
+<a href="(https://www.hackerrank.com/profile/rudrajit55555)" target="_blank">
+  <img src="https://wikimedia.org" alt="HackerRank" width="40" height="40" />
+</a>
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] : rudrajitdas.work@gmail.com
 🚀 Passionate about Open Source data and Creating useful insights out of it
 🌱 Currently learning new technologies for Data Science 
 
