@@ -68,4 +68,4 @@ To solve real-world business problems using data-driven decision making.
 ## 📈 GitHub Statistics
 
 
-![Visitor Count](https://profile-counter.glitch.me/{rudrascience}/count.svg)
+![](https://komarev.com/ghpvc/?username=rudrascience)
