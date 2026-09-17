@@ -68,4 +68,4 @@ To solve real-world business problems using data-driven decision making.
 ## 📈 GitHub Statistics
 
 
-![Profile view counter on GitHub](https://github.com/rudrascience)
+![Visitor Count](https://profile-counter.glitch.me/{rudrascience}/count.svg)
