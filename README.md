@@ -69,3 +69,5 @@ To solve real-world business problems using data-driven decision making.
 
 
 ![](https://komarev.com/ghpvc/?username=rudrascience)
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=rudrasciencef&repo=github-visitors-badge&countColor=%237B1E7A)
