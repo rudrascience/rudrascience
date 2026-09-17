@@ -67,6 +67,5 @@ To solve real-world business problems using data-driven decision making.
 
 ## 📈 GitHub Statistics
 
-[![Your GitHub Stats](https://vercel.app)][(https://github.com/rudrascience)]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrascience&layout=compact&theme=tokyonight)
+![Profile view counter on GitHub](https://github.com/rudrascience)
