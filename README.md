@@ -68,4 +68,4 @@ To solve real-world business problems using data-driven decision making.
 ## 📈 GitHub Statistics
 
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=rudrasciencef&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=rudrasciencef&repo=github-visitors-badge&countColor=%232ea44f )
