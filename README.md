@@ -9,9 +9,10 @@
 
 🚀 Passionate about Open Source data and Creating useful insights out of it
 
-</div>
+
 <!-- -------------------------------------------- Header section ends here------------------------------------------------ -->
 <!-- --------------------------------------------About Me Section start from here-------------------------------------------- -->
+</div>
 
 ## About Me
 
