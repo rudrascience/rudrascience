@@ -1,7 +1,7 @@
-<!-- --------------------------------Header Section Sarts ------------------------------- -->
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rudrajit%20Das&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Data%20Analyst&descAlignY=55&descSize=16"/>
+
 
 # Hi 👋, I'm Rudrajit Das
 
