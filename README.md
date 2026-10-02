@@ -95,5 +95,6 @@ To solve real-world business problems using data-driven decision making.
 ![](https://api.visitorbadge.io/api/VisitorHit?user=rudrasciencef&repo=github-visitors-badge&countColor=%232ea44f )
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrascience&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
 <img src="https://github-readme-stats.vercel.app/api?username=rudrascience&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false)"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudrascience&theme=2077" height="180em" />
 <!-- --------------------------------------------github Stats Section ends here---------------------------------------- -->
 
