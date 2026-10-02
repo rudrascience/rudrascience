@@ -1,12 +1,17 @@
+<!-- --------------------------------Header Section Sarts ------------------------------- -->
 
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rudrajit%20Das&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Data%20Analyst&descAlignY=55&descSize=16"/>
 
 # Hi 👋, I'm Rudrajit Das
 
-📊 Data Analyst | Python | SQL | Power BI | Ex-Banker
+📊 Data Scientist | Data Analyst | Python | SQL | Power BI | Ex-Banker
 
 🚀 Passionate about Open Source data and Creating useful insights out of it
+
+</div>
+<!-- -------------------------------------------- Header section ends here------------------------------------------------ -->
+<!-- --------------------------------------------About Me Section start from here-------------------------------------------- -->
 
 ## About Me
 
@@ -37,24 +42,34 @@ To solve real-world business problems using data-driven decision making.
 
 ## 🛠️ Analytics Toolkit
 
-### Languages
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif">
+
+**Languages**
 - Python
 - SQL
-### Libraries
+
+**Libraries**
 - Pandas
 - NumPy
-### Visualization tools
+- Scikit Learn
+
+**Visualization tools**
 - Power BI
 - Tableau
 - Matplotlib
 - Seaborn
-### Databases
+
+**Databases**
 - MySQL
 - PostgreSQL
-### Tools
+
+**Tools**
 - Excel
 - Jupyter Notebook
 - Git
+
+<!-- --------------------------------------------About Me Section ends here-------------------------------------------- -->
+<!-- --------------------------------------------Tech Stack Section start from here------------------------------------------ -->
 
 ## 💻 Tech Stack
 
@@ -71,7 +86,14 @@ To solve real-world business problems using data-driven decision making.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+<!-- --------------------------------------------tech Stats Section ends here-------------------------------------------- -->
+<!-- --------------------------------------------github Stats Section start from here---------------------------------------- -->
+
 ## 📈 GitHub Statistics
 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=rudrasciencef&repo=github-visitors-badge&countColor=%232ea44f )
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrascience&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api?username=rudrascience&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false)"/>
+<!-- --------------------------------------------github Stats Section ends here---------------------------------------- -->
+
