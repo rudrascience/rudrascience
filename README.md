@@ -53,12 +53,14 @@ To solve real-world business problems using data-driven decision making.
 - Pandas
 - NumPy
 - Scikit Learn
+- Matplotlib
+- Seaborn
+- Folium
 
 **Visualization tools**
 - Power BI
 - Tableau
-- Matplotlib
-- Seaborn
+- Looker Studio
 
 **Databases**
 - MySQL
