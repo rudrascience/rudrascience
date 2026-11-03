@@ -7,7 +7,7 @@
 
 📊 Data Scientist | Data Analyst | Python | SQL | Power BI | Ex-Banker
 
-🚀 Passionate about Open Source data and Creating useful insights out of it
+🚀 Quantitative Professional pivoting into Data Science with domain expertise in Banking
 
 
 <!-- -------------------------------------------- Header section ends here------------------------------------------------ -->
