@@ -5,7 +5,7 @@
 
 # Hi 👋, I'm Rudrajit Das
 
-📊 Data Scientist | Data Analyst | Python | SQL | Power BI | Tableau | Statistical Analysis | Machine Learning | Ex-Banker
+📊 Data Scientist | Data Analyst | Python | SQL | Power BI | Tableau | Statistical Analysis | Machine Learning | Business Intelligence | Ex-Banker
 
 🚀 Quantitative Professional pivoting into Data Science with domain expertise in Banking
 
